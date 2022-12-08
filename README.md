@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [VueJS Tour](https://github.com/GlobalHive/vuejs-tour)  
   
 
-- 🌱 I’m currently learning Typescript 🤔  
+- 🌱 I’m currently learning TypeScript 🤔  
   
 
 - ❓ Ask me about anything related to Vue, Laravel and C#  
